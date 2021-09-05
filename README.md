@@ -1,5 +1,9 @@
 # auth-app
 
+
+Firebase Auth + vuex + router 
+
+
 ## Project setup
 ```
 npm install
